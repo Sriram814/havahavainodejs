@@ -1,0 +1,9 @@
+get http://localhost:3000/city
+
+get http://localhost:3000/country
+
+get http://localhost:3000/airport
+
+get http://localhost:3000/airport/145/
+
+get http://localhost:3000/airport/city/country/145/
